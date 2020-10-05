@@ -1,5 +1,5 @@
 timeout: 60
 branch:
   exclude:
-  - qa2
+  - master
 notification: {}
