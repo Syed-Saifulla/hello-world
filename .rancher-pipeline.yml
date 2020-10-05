@@ -1,5 +1,5 @@
 timeout: 60
 branch:
-  include:
+  exclude:
   - master
 notification: {}
